@@ -1,0 +1,34 @@
+* {
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.title-section {
+    background-color: gray;
+    border: black solid 2px;
+}
+
+.info-section {
+    background-color: bisque;
+    border: black solid 2px;
+}
+
+.how-to-section{
+    background-color: lightgreen;
+    border: black solid 2px;
+}
+
+.signup-section{
+    background-color: lightpink;
+    border: black solid 2px
+}
+
+.navbar{
+    background-color: lightsalmon;
+    border: black solid 2px;
+}
+
+.footer{
+    background-color: lightcyan;
+}

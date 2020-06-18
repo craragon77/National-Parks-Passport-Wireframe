@@ -1,0 +1,15 @@
+main, section{
+    border: black solid 2px;
+    background-color: gray;
+}
+
+header{
+    border: black solid 2px;
+    background-color: lightcoral;
+}
+
+footer{
+    border: black solid 2px;
+    background-color: lightseagreen;
+}
+

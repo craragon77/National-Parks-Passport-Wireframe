@@ -1,0 +1,16 @@
+h1{
+    background-color: gray;
+    border: 2px solid black;
+}
+form{
+    background-color: lightskyblue;
+    border: 2px solid black;
+}
+footer{
+    background-color: lightsalmon;
+    border: 2px solid black;
+}
+header{
+    background-color: lightgreen;
+    border: 2px solid black;
+}

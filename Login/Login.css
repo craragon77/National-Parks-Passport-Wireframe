@@ -1,0 +1,30 @@
+*{
+    margin-right: auto;
+    margin-left: auto;
+    text-align: center;
+}
+
+.form{
+    background-color: lightseagreen;
+    border: black solid 2px;
+    margin-bottom: 20px;
+}
+#username{
+    background-color: lightslategrey;
+    border: black solid 2px;
+}
+
+#password{
+    background-color: lightgreen;
+    border: black solid 2px;
+}
+
+.footer{
+    background: lightsalmon;
+    border: black solid 2px;
+}
+
+.header{
+    background: lightslategrey;
+    border: 2px solid black;
+}
